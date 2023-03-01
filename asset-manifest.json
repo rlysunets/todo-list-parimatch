@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todo-list-parimatch/static/css/main.44e963e6.css",
+    "main.js": "/todo-list-parimatch/static/js/main.1cd93226.js",
+    "index.html": "/todo-list-parimatch/index.html",
+    "main.44e963e6.css.map": "/todo-list-parimatch/static/css/main.44e963e6.css.map",
+    "main.1cd93226.js.map": "/todo-list-parimatch/static/js/main.1cd93226.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44e963e6.css",
+    "static/js/main.1cd93226.js"
+  ]
+}
