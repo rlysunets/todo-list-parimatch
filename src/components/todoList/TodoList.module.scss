@@ -1,0 +1,14 @@
+.todo_list {
+   .list_header {
+      background-color: rgb(184, 184, 184);
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 30px;
+
+      div {
+         flex: 25%;
+         text-transform: uppercase;
+         text-align: center;
+      }
+   }
+}
